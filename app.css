@@ -1,0 +1,27 @@
+#buttonsDiv {
+
+   margin: 6px 0 6px 0;
+   width: 512px;
+   text-align: center;
+}
+.autogen {
+   background-color: gray;
+}
+#inputA, #inputB, #inputC, #oper {
+   width: 482px; 
+}#inputA {
+   border-color: red
+}
+#inputB {
+   border-color: green
+}
+#inputC { 
+   border-color: blue
+}
+#exprRes {
+   width: 226px;
+}
+.sectionLink {
+   font-style: italic;
+   cursor: pointer;
+}
